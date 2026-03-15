@@ -70,8 +70,7 @@ export default function StadiumJukeboxWebsite() {
           <div className="flex flex-col justify-center">
             <div className="mb-5 inline-flex w-fit items-center gap-2 rounded-full border border-red-500/30 bg-red-500/10 px-4 py-2 text-sm text-red-200">
               <span className="h-2 w-2 rounded-full bg-red-400" />
-              Interactive fan engagement for live sports venues
-            </div>
+              </div>
             <h1 className="max-w-4xl text-5xl font-black uppercase leading-[0.95] tracking-tight sm:text-6xl lg:text-7xl">
               Let fans control the <span className="text-red-500">soundtrack</span> of the game.
             </h1>
