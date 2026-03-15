@@ -68,8 +68,6 @@ export default function StadiumJukeboxWebsite() {
       <main className="relative">
         <section className="mx-auto grid max-w-7xl gap-12 px-6 py-20 lg:grid-cols-[1.1fr_0.9fr] lg:px-8 lg:py-28">
           <div className="flex flex-col justify-center">
-            <div className="mb-5 inline-flex w-fit items-center gap-2 rounded-full border border-red-500/30 bg-red-500/10 px-4 py-2 text-sm text-red-200">
-              <span className="h-2 w-2 rounded-full bg-red-400" />
               </div>
             <h1 className="max-w-4xl text-5xl font-black uppercase leading-[0.95] tracking-tight sm:text-6xl lg:text-7xl">
               Let fans control the <span className="text-red-500">soundtrack</span> of the game.
